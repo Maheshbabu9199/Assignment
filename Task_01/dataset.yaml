@@ -1,0 +1,7 @@
+train: C:/Users/MAHESH/OneDrive/Desktop/Happymonk/TASK-01/Input_Data/train
+val : C:/Users/MAHESH/OneDrive/Desktop/Happymonk/TASK-01/Input_Data/val
+
+
+
+nc: 2
+names: ["dog", "person"]
